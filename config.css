@@ -1,0 +1,23 @@
+@charset  "utf-8" ;
+
+h1{
+    text-align: center;font-family: 'Itim', cursive;color:gold;font-size: 2.5em;}
+h2{
+    text-align: center;font-family: 'Itim', cursive;color:gold;font-size: 2em;}
+main>article{
+    margin: auto;max-width: 100vh; min-width: 30vh; line-height: 2em;font-weight: bolder;color: aliceblue;font-size: 1.5em;text-align: justify;}
+
+img{
+    width: 100%;}
+
+header{
+    background-image:linear-gradient(to top,#000E19,#327ab1);padding: 10px;}
+
+footer{
+    background-color: bisque;font-size: 1.5em;text-align: center;color: black;}
+
+body{
+    background-attachment: fixed;background-image: url(imagens/sl_031420_28950_10.jpg);}
+nav>a{
+    padding: 10px;font-weight: bolder;color: white;border: solid green 1px;background-image:linear-gradient(to top,#000E19,#327ab1);text-decoration: none;
+}
