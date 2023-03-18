@@ -54,4 +54,9 @@ th{
     background-color: rgb(232, 0, 0);
 }
 div#container{overflow-x: auto;}
+
 tbody>tr:nth-child(even){background-color: aquamarine;}
+
+p{background-color: rgba(0, 0, 0, 0.545);}
+
+aside{background-color: aliceblue;display: flexbox;}
