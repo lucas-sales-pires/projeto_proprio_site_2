@@ -9,7 +9,8 @@ main>article{
         margin: auto;max-width: 100vh; min-width: 30vh; line-height: 2em;font-weight: bolder;color: aliceblue;font-size: 1.5em;text-align: justify;}
     
 img{
-    width: 100%;}
+    width: 100%;
+    height: 500px;}
 
 header{
     background-image:linear-gradient(to top,#000E19,#327ab1);padding: 10px;}
@@ -59,5 +60,7 @@ div#container{overflow-x: auto;}
 tbody>tr:nth-child(even){background-color: aquamarine;}
 
 p{background-color: rgba(0, 0, 0, 0.545);}
+
+
 
 
